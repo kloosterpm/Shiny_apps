@@ -1,2 +1,3 @@
 # Shiny_apps
-Several shiny apps (sample size calcualtion etc).
+Several shiny apps (sample size calculation etc).
+
